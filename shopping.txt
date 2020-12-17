@@ -5,3 +5,4 @@ lemon
 walnut
 melon
 cucumber
+sugar cane
