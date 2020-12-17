@@ -1,8 +1,11 @@
-apple
-orange
-banana
-lemon
-walnut
-melon
-cucumber
-sugar cane
+Apples
+Oranges
+Bananas
+Lemons
+Walnuts
+Melons
+Cucumbers
+Sugar cane
+Cereals
+Cherries
+Carrots
